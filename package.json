@@ -1,0 +1,29 @@
+{
+  "name": "redux-scaffolding",
+  "version": "1.0.0",
+  "description": "CLI to create Redux Scaffold",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pabagan/redux-scaffold.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "CLI",
+    "scaffold"
+  ],
+  "author": "@pabagan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pabagan/redux-scaffold/issues"
+  },
+  "homepage": "https://github.com/pabagan/redux-scaffold#readme",
+  "dependencies": {
+    "nodemon": "^1.14.12"
+  }
+}
